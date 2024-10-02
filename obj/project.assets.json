@@ -5526,27 +5526,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Utilizador\\.nuget\\packages\\": {}
+    "C:\\Users\\35193\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Utilizador\\IdeaProjects\\sem5pi_24-25\\DDDNetCore.csproj",
+      "projectUniqueName": "C:\\Users\\35193\\IdeaProjects\\sem5pi-24-25-3dh\\sem5pi_24-25\\DDDNetCore.csproj",
       "projectName": "DDDNetCore",
-      "projectPath": "C:\\Users\\Utilizador\\IdeaProjects\\sem5pi_24-25\\DDDNetCore.csproj",
-      "packagesPath": "C:\\Users\\Utilizador\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Utilizador\\IdeaProjects\\sem5pi_24-25\\obj\\",
+      "projectPath": "C:\\Users\\35193\\IdeaProjects\\sem5pi-24-25-3dh\\sem5pi_24-25\\DDDNetCore.csproj",
+      "packagesPath": "C:\\Users\\35193\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\35193\\IdeaProjects\\sem5pi-24-25-3dh\\sem5pi_24-25\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Utilizador\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\35193\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
